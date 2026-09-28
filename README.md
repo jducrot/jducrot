@@ -16,18 +16,86 @@ Currently expanding my product and business toolkit through an MBA, with a focus
 
 ## Featured work
 
-- [Accessible drag-and-drop demos](https://github.com/jducrot/a11y-dragdrop-demo) — Practical examples and patterns for building more inclusive drag-and-drop interactions
-- [Accessibility resources](https://jeanducrot.com) — Guidance and resources for making digital content and experiences more welcoming
+- [Accessible drag-and-drop demos](https://github.com/jducrot/a11y-dragdrop-demo) — Practical patterns and examples for creating inclusive drag-and-drop interactions.
+- [Accessibility guidance and resources](https://jeanducrot.com) — Resources for making digital content and experiences more welcoming.
 
 ## Tools and technologies
 
-**Web and accessibility:** HTML5, CSS, JavaScript, semantic HTML, ARIA, WCAG, screen-reader testing  
-**Product and delivery:** Git, GitHub, Jira, Confluence, Figma, Agile collaboration, documentation, stakeholder alignment  
-**Business and analytics:** Product strategy, business analytics, accessibility governance, and risk management
+### Web and accessibility
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="./assets/icons/html5.svg" alt="" width="28" height="28" />
+    HTML5 documentation
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="./assets/icons/css.svg" alt="" width="28" height="28" />
+    CSS documentation
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="./assets/icons/javascript.svg" alt="" width="28" height="28" />
+    JavaScript documentation
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">
+    <img src="./assets/icons/w3c.svg" alt="" width="28" height="28" />
+    WCAG and ARIA guidance
+  </a>
+</p>
+
+### Product and delivery
+
+<p>
+  <a href="https://git-scm.com/">
+    <img src="./assets/icons/git.svg" alt="" width="28" height="28" />
+    Git
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/jducrot">
+    <img src="./assets/icons/github.svg" alt="" width="28" height="28" />
+    GitHub profile
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="./assets/icons/jira.svg" alt="" width="28" height="28" />
+    Jira
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.atlassian.com/software/confluence">
+    <img src="./assets/icons/confluence.svg" alt="" width="28" height="28" />
+    Confluence
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.figma.com/">
+    <img src="./assets/icons/figma.svg" alt="" width="28" height="28" />
+    Figma
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.markdownguide.org/">
+    <img src="./assets/icons/markdown.svg" alt="" width="28" height="28" />
+    Markdown Guide
+  </a>
+</p>
+
+**Practices:** Inclusive product strategy, accessibility governance, semantic design, screen-reader testing, UX collaboration, Agile delivery, stakeholder alignment, business analytics, and risk management.
 
 ## Connect
 
 - [My website: jeanducrot.com](https://jeanducrot.com)
-- [LinkedIn: Jean Ducrot](https://www.linkedin.com/in/jeanducrot/)
+- [Jean Ducrot on LinkedIn](https://www.linkedin.com/in/jeanducrot/)
+
+<p>
+  <a href="https://jeanducrot.com">
+    <img src="./assets/icons/googlechrome.svg" alt="" width="24" height="24" />
+    My website
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/jeanducrot/">
+    <img src="./assets/icons/linkedin.svg" alt="" width="24" height="24" />
+    LinkedIn
+  </a>
+</p>
 
 > Making the web more welcoming for everyone.
