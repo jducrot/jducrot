@@ -77,18 +77,20 @@ Currently expanding my product and business toolkit through an MBA, with a focus
   </a>
 </p>
 
-**Practices:** Inclusive product strategy, accessibility governance, semantic design, screen-reader testing, UX collaboration, Agile delivery, stakeholder alignment, business analytics, and risk management.
+**Practices:** 
+* Inclusive product strategy
+* Accessibility governance
+* Semantic design
+* Screen-reader testing
+* UX collaboration
+* Agile delivery
+* Stakeholder alignment
+* Business analytics
+* Risk management
 
 ## Connect
 
 - [My website: jeanducrot.com](https://jeanducrot.com)
 - [Jean Ducrot on LinkedIn](https://www.linkedin.com/in/jeanducrot/)
-
-<p>
-  <a href="https://jeanducrot.com">
-    <img src="./assets/icons/googlechrome.svg" alt="" width="24" height="24" />
-    My website
-  </a>
-</p>
 
 > Making the web more welcoming for everyone.
