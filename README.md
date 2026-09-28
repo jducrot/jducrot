@@ -1,13 +1,17 @@
 # Jean Ducrot
 
-**Inclusive technology leader building accessible, usable, and strategically sound digital products.**
+**Technical program leader · accessibility & AI governance**
 
-I bring 25+ years of experience across software development, digital accessibility, UX, and cross-functional delivery. I help teams translate user needs, technical constraints, and accessibility requirements into practical product decisions and scalable ways of working.
+I bring 25+ years of experience across software development, digital accessibility, UX, and cross-functional delivery. I lead and coach teams translate user needs, technical constraints, and accessibility requirements into practical product decisions and scalable ways of working.
 
-Currently expanding my product and business toolkit through an MBA, with a focus on business analytics, product strategy, and AI governance.
+I also co-created the ION heuristic framework to empower designers to create more accessible of AI interfaces. I presented it at the CSUN Assistive Technology Conference in 2025.
+
+## Selected work
+- **Engineering operations at Elsevier:** I am currently leading the technical accessibility governance across 40+ product teams, standardizing delivery practices. 
+- **Design quality at Pearson:** Architected a company-wide Figma annotation toolkit and design review workflow that reduced defect escape rates by 66% in three months. Integrated Axe and Cypress testing into CI/CD pipelines.
+- **Accessible foundations at Interfolio:** Built a WCAG-compliant Angular component library adopted as the company-wide standard and founded the company’s first accessibility practice.
 
 ## Focus areas
-
 - Inclusive product strategy and accessibility operations
 - Accessible front-end patterns, semantic HTML, ARIA, and WCAG
 - Product discovery, UX collaboration, and developer enablement
@@ -15,7 +19,6 @@ Currently expanding my product and business toolkit through an MBA, with a focus
 - Data-informed decision-making and technical product leadership
 
 ## Featured work
-
 - [Accessible drag-and-drop demos](https://github.com/jducrot/a11y-dragdrop-demo) — Practical patterns and examples for creating inclusive drag-and-drop interactions.
 - [Accessibility guidance and resources](https://jeanducrot.com) — Resources for making digital content and experiences more welcoming.
 
@@ -36,7 +39,7 @@ Currently expanding my product and business toolkit through an MBA, with a focus
   &nbsp;|&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="./assets/icons/javascript.svg" alt="" width="28" height="28" />
-    JavaScript documentation
+    JavaScript
   </a>
   &nbsp;|&nbsp;
   <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">
