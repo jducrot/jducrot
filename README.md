@@ -40,9 +40,7 @@ Currently expanding my product and business toolkit through an MBA, with a focus
   </a>
   &nbsp;|&nbsp;
   <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">
-    <img src="./assets/icons/w3c.svg" alt="" width="28" height="28" />
-    WCAG and ARIA guidance
-  </a>
+  WCAG and ARIA guidance</a>
 </p>
 
 ### Product and delivery
@@ -90,11 +88,6 @@ Currently expanding my product and business toolkit through an MBA, with a focus
   <a href="https://jeanducrot.com">
     <img src="./assets/icons/googlechrome.svg" alt="" width="24" height="24" />
     My website
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/jeanducrot/">
-    <img src="./assets/icons/linkedin.svg" alt="" width="24" height="24" />
-    LinkedIn
   </a>
 </p>
 
