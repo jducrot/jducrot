@@ -86,4 +86,4 @@ I also co-created the ION heuristic framework to empower designers to create mor
 - [My website: jeanducrot.com](https://jeanducrot.com)
 - [Jean Ducrot on LinkedIn](https://www.linkedin.com/in/jeanducrot/)
 
-> Making the web more welcoming for everyone.
+> Digital accessibility whisperer
