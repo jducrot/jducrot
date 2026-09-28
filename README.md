@@ -79,16 +79,6 @@ I also co-created the ION heuristic framework to empower designers to create mor
     Markdown Guide
   </a>
 </p>
-
-**Practices:** 
-* Inclusive product strategy
-* Accessibility governance
-* Semantic design
-* Screen-reader testing
-* UX collaboration
-* Agile delivery
-* Stakeholder alignment
-* Business analytics
 * Risk management
 
 ## Connect
